@@ -1,5 +1,6 @@
 # Examen Práctico – Métodos de Ordenamiento
 
+(Pequeña modificaciones pedida por el docente)
 ## Descripción
 
 En esta evaluación práctica deberás implementar algoritmos de ordenamiento para gestionar listas de personas. El ordenamiento es una operación fundamental en la programación que permite organizar datos de manera eficiente para su posterior búsqueda, análisis y presentación. 
